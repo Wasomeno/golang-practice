@@ -1,4 +1,4 @@
-module golang-practice
+module github.com/Wasomeno/golang-practice
 
 go 1.22.1
 

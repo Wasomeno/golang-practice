@@ -2,11 +2,11 @@ package main
 
 import (
 	"context"
-	"golang-practice/tutorial"
 	"log"
 	"net/http"
 	"os"
 
+	"github.com/Wasomeno/golang-practice/tutorial"
 	"github.com/go-chi/chi"
 	"github.com/joho/godotenv"
 
